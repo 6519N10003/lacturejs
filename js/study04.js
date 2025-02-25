@@ -1,4 +1,3 @@
-//study05.js
 //Operator ตัวดำเนินการ
 // + - * / % ** ++ --
 console.log(10**2)
